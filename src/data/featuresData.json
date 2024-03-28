@@ -1,16 +1,17 @@
 [
     {
         "id": 1,
-        "title": "Effortless Planning",
-        "content": "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
+        "title": "Our Mission",
+        "content": "To deliver Innovative, high-performance machinery solutions that empower industries to thrive and excel in maximizing efficiency and sustainability.",
         "align": "right",
-        "image": "/images/features1.png"
+        "image": "/images/bethesher-1.jpg"
     },
     {
         "id": 1,
-        "title": "Shopping List",
-        "content": "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
+        "title": "Our Vision",
+        "content": "To be a global partner in providing cutting-edge machinery solutions, driving innovation, reliability, and sustainability in manufacturing processeses.",
         "align": "left",
         "image": "/images/features2.png"
     }
+
 ]
